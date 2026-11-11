@@ -7,3 +7,9 @@ node_modules/
 __pycache__/
 .claude/
 .cc-workbench/
+.pytest_cache/
+*.duckdb
+*.duckdb.wal
+backend/data/
+frontend/dist/
+.npm-cache/
